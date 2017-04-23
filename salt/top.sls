@@ -1,6 +1,6 @@
 base:
   '*':
-    - base
+    - common
   'role:web*':
     - match: grain
     - web
